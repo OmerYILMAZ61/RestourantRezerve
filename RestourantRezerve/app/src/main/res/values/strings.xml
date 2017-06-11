@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RestourantRezerve</string>
+
+    <string-array name="BosDolu">
+
+        <item>Boş Masalar</item>
+        <item>Dolu Masalar</item>
+
+    </string-array>
+
+</resources>
